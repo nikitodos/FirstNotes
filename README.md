@@ -7,5 +7,3 @@ uWave was a forum based on SMF. I designed it and managed it between 2016 and 20
 Inside this project, I've been Administrator, Webmaster and, together with my best friend, Chief Technician.
 
 These are the papers (probably out-of-date) that I've written inside the project.
-
-PS. The Astrodynamics Web Platform is based on uWave's web interface.
