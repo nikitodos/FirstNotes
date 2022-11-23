@@ -1,4 +1,4 @@
-# uwave
+# First IT papers
 
 Some papers I've written for the uWave community (2016-2018).
 
