@@ -1,6 +1,6 @@
-# First IT papers
+# First IT notes
 
-Some papers I've written for the uWave community (2016-2018).
+Some notes I've written for the uWave community (2016-2018).
 
 uWave was a forum based on SMF. I designed it and managed it between 2016 and 2018 for helping people with informatic diseases.
 
